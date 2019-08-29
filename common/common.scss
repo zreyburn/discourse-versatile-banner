@@ -77,7 +77,10 @@
       height: 1px;
       background: $secondary_text_color;
     }
-
+    
+    .btn.btn-icon-text {
+        background: $link_text_color;
+    }
     .description p {
       margin: 0;
       padding: 15px;
